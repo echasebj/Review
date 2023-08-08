@@ -89,7 +89,7 @@ if ($request.url.indexOf(wangpan) != -1){
       "buy_description" : "",
       "buy_time" : 1417260485,
       "product_id" : "1",
-      "auto_upgrade_to_svip" : 8,
+      "auto_upgrade_to_svip" : 1,
       "end_time" : 4092600296,
       "cluster" : "vip",
       "detail_cluster" : "svip",
