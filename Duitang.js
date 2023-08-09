@@ -9,7 +9,7 @@
 **************************************
 
 [rewrite_local]
-^http[s]?:\/\/.*\.duitang\.com\/napi\/people\/me url script-response-body https://raw.githubusercontent.com/Reviewa/Review/main/duitang.js
+^http[s]?:\/\/.*\.duitang\.com\/napi\/people\/me url script-response-body https://raw.githubusercontent.com/Reviewa/Review/main/Duitang.js
 
 [mitm] 
 hostname = *.duitang.com
