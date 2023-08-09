@@ -3,7 +3,7 @@
 文晓生-小说阅读器：https://apps.apple.com/app/id1595241052
 
 [rewrite_local]
-^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/Reviewa/Review/main/wenxiaosheng.js
+^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/Reviewa/Review/main/Wenxiaosheng.js
 
 [MITM]
 hostname = buy.itunes.apple.com
