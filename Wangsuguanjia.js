@@ -8,7 +8,7 @@
 
 [rewrite_local]
 
-^https:\/\/api-v3\.speedtest\.cn\/user\/info url script-response-body https://raw.githubusercontent.com/Reviewa/Review/main/wangsuguanjia.js
+^https:\/\/api-v3\.speedtest\.cn\/user\/info url script-response-body https://raw.githubusercontent.com/Reviewa/Review/main/Wangsuguanjia.js
 
 [mitm]
 
