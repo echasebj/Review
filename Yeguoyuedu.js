@@ -7,7 +7,7 @@
 **************************************
 
 [rewrite_local]
-^https?:\/\/yeguo\.236api\.com url script-response-body https://raw.githubusercontent.com/Reviewa/Review/main/yeguoyuedu.js
+^https?:\/\/yeguo\.236api\.com url script-response-body https://raw.githubusercontent.com/Reviewa/Review/main/Yeguoyuedu.js
 
 [mitm]
 hostname = yeguo.236api.com
