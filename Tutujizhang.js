@@ -15,7 +15,7 @@
 **************************************
 
 [rewrite_local]
-^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/(.*?)*$) url script-response-body https://raw.githubusercontent.com/Reviewa/Review/main/tutujizhang.js
+^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/(.*?)*$) url script-response-body https://raw.githubusercontent.com/Reviewa/Review/main/Tutujizhang.js
 
 [mitm]
 hostname = api.revenuecat.com
