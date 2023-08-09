@@ -3,12 +3,12 @@
 项目名称：自动点击器-Auto Clicker
 下载工具：https://t.cn/A6NIJZK9
 脚本作者：chxm1023
-使用声明：⚠️仅供参考，🈲转载与售卖！
+
 
 *****************************************
 
 [rewrite_local]
-^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/?(.*?)*$) url script-response-body https://raw.githubusercontent.com/Reviewa/Review/main/zidongdianjiqi.js
+^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/?(.*?)*$) url script-response-body https://raw.githubusercontent.com/Reviewa/Review/main/Zidongdianjiqi.js
 
 [mitm]
 hostname = api.revenuecat.com
