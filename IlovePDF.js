@@ -7,7 +7,7 @@
 **************************************
 
 [rewrite_local]
-^https:\/\/service\.ilovepdf\.com\/v1\/user url script-response-body https://raw.githubusercontent.com/Reviewa/Review/main/ilovePDF.js
+^https:\/\/service\.ilovepdf\.com\/v1\/user url script-response-body https://raw.githubusercontent.com/Reviewa/Review/main/IlovePDF.js
 
 [mitm]
 hostname = service.ilovepdf.com
