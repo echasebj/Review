@@ -7,7 +7,7 @@
 **************************************
 
 [rewrite_local]
-^https?:\/\/laipicapp\.laihua\.com\/session\/new url script-response-body https://raw.githubusercontent.com/Reviewa/Review/main/laihua.js
+^https?:\/\/laipicapp\.laihua\.com\/session\/new url script-response-body https://raw.githubusercontent.com/Reviewa/Review/main/Laihua.js
 
 [mitm]
 hostname = laipicapp.laihua.com
