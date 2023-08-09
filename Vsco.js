@@ -3,12 +3,11 @@
 项目名称：VSCO Pro
 下载工具：https://t.cn/AiOSSyU9
 脚本作者：chxm1023
-使用声明：⚠️仅供参考，🈲转载与售卖！
 
 *****************************************
 
 [rewrite_local]
-^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/?(.*?)*$) url script-response-body https://raw.githubusercontent.com/Reviewa/Review/main/vsco.js
+^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/?(.*?)*$) url script-response-body https://raw.githubusercontent.com/Reviewa/Review/main/Vsco.js
 
 [mitm]
 hostname = api.revenuecat.com
