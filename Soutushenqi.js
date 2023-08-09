@@ -8,7 +8,7 @@
 **************************************
 
 [rewrite_local]
-^http:\/\/wallpaper\.soutushenqi\.com\/api\/.+\/account\/token url script-response-body https://raw.githubusercontent.com/Reviewa/Review/main/soutushenqi.js
+^http:\/\/wallpaper\.soutushenqi\.com\/api\/.+\/account\/token url script-response-body https://raw.githubusercontent.com/Reviewa/Review/main/Soutushenqi.js
 
 [mitm]
 hostname = wallpaper.soutushenqi.com
