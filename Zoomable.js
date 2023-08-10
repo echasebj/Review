@@ -1,5 +1,6 @@
 /*
 脚本作者:Guding88
+一次性解锁
 当前版本:2.1
 Zoomable：https://apps.apple.com/app/id1568442831
 
