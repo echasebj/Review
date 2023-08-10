@@ -1,5 +1,6 @@
 /*
-
+脚本作者:Guding88
+当前版本:2.1
 Zoomable：https://apps.apple.com/app/id1568442831
 
 [rewrite_local]
