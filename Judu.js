@@ -13,5 +13,5 @@ var guding = JSON.parse($response.body);
 guding.is_member = true;
 guding.nickname = "Review";
 guding.member_expired_at = 148204937166;
-guding.avatar = "https:\/\/raw\.githubusercontent\.com\/Guding88\/iCon\/main\/png\/Guding\.png";
+
 $done({ body: JSON.stringify(guding) });
