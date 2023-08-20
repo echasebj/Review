@@ -1,6 +1,6 @@
 /*
 七猫小说
-当前版本：7.31.20
+最好支持版本：7.30.20  版本id 858892756
 # ^https?:\/\/(api-\w+|xiaoshuo)\.wtzw\.com\/api\/v\d\/ url script-response-body http://192.168.2.170:8080/qimao.js
 ====================================
 [rewrite_local]
