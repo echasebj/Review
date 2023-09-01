@@ -19,7 +19,7 @@ hostname = wallpaper.soutushenqi.com
 var chxm1023 = JSON.parse($response.body);
 
 chxm1023.data.vipPastDueTime = 4092599350000;
-chxm1023.data.vipLabel = "高级用户";
+chxm1023.data.vipLabel = "元老捐赠会员";
 chxm1023.data.vipLabelLevel = 4;
 chxm1023.data.vipType = 1;
 chxm1023.data.pcVipType = 1;
