@@ -5,11 +5,12 @@
 脚本作者：chxm1023
 电报频道：https://t.me/chxm1023
 使用声明：⚠️仅供参考，🈲转载与售卖！
-版本:3.7.5可用
+
 **************************************
 
 [rewrite_local]
-^https?:\/\/cs\.kuso\.xyz\/configs.+ url script-response-body https://raw.githubusercontent.com/Reviewa/Review/main/IScreen.js
+^https?:\/\/cs\.kuso\.xyz\/configs.+ url script-response-body https://raw.githubusercontent.com/chxm1023/Rewrite/main/iscreenfz.js
+^https?:\/\/pay\.kuso\.xyz\/pay\/pay-check url reject-200
 
 [mitm]
 hostname = cs.kuso.xyz
