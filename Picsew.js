@@ -1,5 +1,5 @@
 /*
-
+最高支持：3.9.4
 Picsew：https://apps.apple.com/app/id1208145167
 
 [rewrite_local]
